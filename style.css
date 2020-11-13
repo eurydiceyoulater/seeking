@@ -50,25 +50,19 @@ h6
 
 p
 {
-  color: black;
+  color: white;
   font-size: 25px;
 
 }
-href="oranges.html"> does she know youre a ticking time bomb?
-{
-    font-size: I 60px;
-    font-style: italic;
-    background-color: black
-    font-size: 30px
-    text-align:center;
-    opacity: .5;
-
-}
-@kayframes bounce {
+@keyframes appear {
   0% {
-    top: 30px
+    opacity:0.0;
   }
-  50% {
-    top:400px
+  100% {
+    opacity:1.0;
   }
+}
+#line1 {
+  animation-name: appear;
+  animation-duration: 3s;
 }
