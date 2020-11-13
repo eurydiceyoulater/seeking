@@ -1,0 +1,74 @@
+html
+{
+  background-color: black;
+}
+h1
+{
+      font-style: italic;
+      text-align:left;
+      color:white;
+      font-size:120;
+
+ }
+h2
+{
+  font-style: italic;
+  font-size: 100px;
+  text-align:60px ;
+  color: white;
+}
+h3
+{
+  font-size: 80px;
+  font-style: italic;
+  color:white;
+  text-align: center;
+}
+h4
+{
+  font-size: 60px
+  font-style:italic;
+  text-align: center;
+  color: white
+
+}
+h5
+{
+  font-size: 40px;
+  font-style: italic;
+  text-align: left;
+  color: white;
+}
+h6
+{
+  font-size: 50px;
+  font-style: italic;
+  text-align: left;
+  color:white;
+}
+
+
+p
+{
+  color: black;
+  font-size: 25px;
+
+}
+href="oranges.html"> does she know youre a ticking time bomb?
+{
+    font-size: I 60px;
+    font-style: italic;
+    background-color: black
+    font-size: 30px
+    text-align:center;
+    opacity: .5;
+
+}
+@kayframes bounce {
+  0% {
+    top: 30px
+  }
+  50% {
+    top:400px
+  }
+}
