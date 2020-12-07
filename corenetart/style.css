@@ -1,0 +1,70 @@
+html
+{
+  background-color: black;
+}
+h1
+{
+      font-style: italic;
+      text-align:left;
+      color:white;
+      font-size:120;
+
+ }
+h2
+{
+  font-style: italic;
+  font-size: 100px;
+  text-align:60px ;
+  color: white;
+}
+h3
+{
+  font-size: 80px;
+  font-style: italic;
+  color:white;
+  text-align: center;
+}
+h4
+{
+  font-size: 60px
+  font-style:italic;
+  text-align: center;
+  color: white
+
+}
+h5
+{
+  font-size: 40px;
+  font-style: italic;
+  text-align: left;
+  color: white;
+}
+h6
+{
+  font-size: 50px;
+  font-style: italic;
+  text-align: left;
+  color:white;
+}
+p
+{
+  color: white;
+  font-size: 25px;
+
+}
+@keyframes appear {
+  0% {
+    opacity:0.0;
+  }
+  100% {
+    opacity:1.0;
+  }
+}
+#line1 {
+  animation-name: appear;
+  animation-duration: 3s;
+}
+#line2 {
+  animation-name: appear;
+  annimation-duration: 5s;
+}
